@@ -1,15 +1,15 @@
 {
-	"name": "@shipbit/slickgpt",
+	"name": "@Wall-EEE/Wallechat",
 	"version": "1.2.4",
 	"license": "MIT",
 	"author": {
-		"name": "Simon Hopstätter",
-		"email": "simon.hopstaetter@shipbit.de",
-		"url": "https://shipbit.de"
+		"name": "Adrian Walle",
+		"email": "adriwal3@gmail.com",
+		"url": "https://chat4.walle-3.com/"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ShipBit/slickgpt"
+		"url": "https://github.com/Wall-EEE/Wallechat"
 	},
 	"scripts": {
 		"dev": "vite dev",

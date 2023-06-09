@@ -42,12 +42,12 @@
 
 	const meta = {
 		type: 'website',
-		title: 'SlickGPT',
-		url: 'https://slickgpt.vercel.app/',
+		title: 'Wall-E ChatGPT Client',
+		url: 'https://chat.walle-3.com/',
 		description:
-			'SlickGPT is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.',
-		image: '/logo-slickgpt.svg',
-		imageAlt: 'SlickGPT Logo'
+			'Walle is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.',
+		image: '/wallechat.svg',
+		imageAlt: 'Wallechat Logo'
 	};
 
 	function setupSkeleton() {

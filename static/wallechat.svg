@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="678" height="538" fill="none" viewBox="0 0 678 538">
+  <path fill="url(#a)" d="M242 180c0 59.647-49.249 108-110 108s-77.5-68-77.5-120.5c-88 49.5-28-95.5 70-95.5C185.251 72 242 120.353 242 180Z"/>
+  <ellipse cx="652.5" cy="438" fill="url(#b)" rx="25.5" ry="25"/>
+  <ellipse cx="210.5" cy="25" fill="url(#c)" rx="25.5" ry="25"/>
+  <ellipse cx="574.5" cy="513" fill="url(#d)" rx="25.5" ry="25"/>
+  <path fill="url(#e)" fill-rule="evenodd" d="M583 319.5c0 22.335-3.628 43.747-10.278 63.578-6.729 32.909-28.111 63.211-60.7 87.059-11.679 9.149-24.465 16.73-38.097 22.46C434.905 511.009 386.363 522 331.5 522 188.182 522 56 446.995 56 360.64c0-31.639 12.916-30.281 36.333-15.857 55.134 23.067 77.465 29.141 94.167 23.717 17.802-5.78 33.047-17.418 42.5-33 5.485-9.04 10.665-24.927 14.047-36.672C252.496 206.108 324.758 134 412.5 134c94.165 0 170.5 83.051 170.5 185.5Z" clip-rule="evenodd"/>
+  <path fill="url(#f)" d="m460.5 100 37.382 116.776h120.969l-97.866 72.172 37.381 116.776-97.866-72.172-97.866 72.172 37.381-116.776-97.866-72.172h120.969L460.5 100Z"/>
+  <defs>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(0 25 -25.5 0 652.5 438)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#73EDFA"/>
+      <stop offset="1" stop-color="#73EDFA" stop-opacity=".75"/>
+    </radialGradient>
+    <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(0 25 -25.5 0 210.5 25)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#73EDFA"/>
+      <stop offset="1" stop-color="#73EDFA" stop-opacity=".75"/>
+    </radialGradient>
+    <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="matrix(0 25 -25.5 0 574.5 513)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#73EDFA"/>
+      <stop offset="1" stop-color="#73EDFA" stop-opacity=".75"/>
+    </radialGradient>
+    <radialGradient id="f" cx="0" cy="0" r="1" gradientTransform="matrix(0 -239 235.464 0 461 269)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC800"/>
+      <stop offset="0" stop-color="#FED12E"/>
+      <stop offset="1" stop-color="#FFF0AB"/>
+    </radialGradient>
+    <linearGradient id="a" x1="141.5" x2="141.5" y1="72" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7C7"/>
+      <stop offset="1" stop-color="#FED12D"/>
+    </linearGradient>
+    <linearGradient id="e" x1="-27.5" x2="558" y1="328" y2="211.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D1FF" stop-opacity=".1"/>
+      <stop offset=".275" stop-color="#00D1FF" stop-opacity=".5"/>
+      <stop offset=".501" stop-color="#00D1FF"/>
+      <stop offset=".751" stop-color="#00D1FF" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#00D1FF" stop-opacity=".2"/>
+    </linearGradient>
+  </defs>
+</svg>
